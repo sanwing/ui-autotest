@@ -1,0 +1,138 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Zhengt-api-daily-check-593</title>
+<style type="text/css">
+				body {
+					font:normal 68% verdana,arial,helvetica;
+					color:#000000;
+				}
+				table tr td, table tr th {
+					font-size: 68%;
+				}
+				table.details tr th{
+				    color: #ffffff;
+					font-weight: bold;
+					text-align:center;
+					background:#2674a6;
+					white-space: nowrap;
+				}
+				table.details tr td{
+					background:#eeeee0;
+					white-space: nowrap;
+				}
+				h1 {
+					margin: 0px 0px 5px; font: 165% verdana,arial,helvetica
+				}
+				h2 {
+					margin-top: 1em; margin-bottom: 0.5em; font: bold 125% verdana,arial,helvetica; margin-left: 2.5%
+				}
+				h3 {
+					margin-bottom: 0.5em; font: bold 115% verdana,arial,helvetica
+				}
+				.Failure {
+					font-weight:bold; color:red;
+				}
+
+
+				img
+				{
+				  border-width: 0px;
+				}
+
+				.expand_link
+				{
+				   position=absolute;
+				   right: 0px;
+				   width: 27px;
+				   top: 1px;
+				   height: 27px;
+				}
+
+				.page_details
+				{
+				   display: none;
+				}
+
+                                .page_details_expanded
+                                {
+                                    display: block;
+                                    display/* hide this definition from  IE5/6 */: table-row;
+                                }
+
+
+			</style>
+<script language="JavaScript">
+                           function expand(details_id)
+			   {
+
+			      document.getElementById(details_id).className = "page_details_expanded";
+			   }
+
+			   function collapse(details_id)
+			   {
+
+			      document.getElementById(details_id).className = "page_details";
+			   }
+
+			   function change(details_id)
+			   {
+			      if(document.getElementById(details_id+"_image").src.match("expand"))
+			      {
+			         document.getElementById(details_id+"_image").src = "collapse.png";
+			         expand(details_id);
+			      }
+			      else
+			      {
+			         document.getElementById(details_id+"_image").src = "expand.png";
+			         collapse(details_id);
+			      }
+                           }
+			</script>
+</head>
+<body>
+<h1>Zhengt-api-daily-check-593</h1>
+<table width="100%">
+<tr>
+<td align="left">Date report: 2019-06-17 08:01:31</td>
+</tr>
+</table>
+<hr size="1">
+<h2>概况</h2>
+<table width="95%" cellspacing="2" cellpadding="5" border="0" class="details" align="center">
+<tr valign="top">
+<th>总用例数</th><th>失败数</th><th>成功率</th>
+</tr>
+<tr valign="top" class="">
+<td align="center">67</td><td align="center">0</td><td align="center">100.00%</td>
+</tr>
+</table>
+<hr align="center" width="95%" size="1">
+<h2>用例列表</h2>
+<table width="95%" cellspacing="2" cellpadding="5" border="0" class="details" align="center">
+<tr valign="top">
+<th>用例名称</th><th>运行次数</th><th>失败数量</th><th>成功率</th>
+</tr>
+<tr valign="top" class="">
+<td>APP-登陆</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+<tr valign="top" class="">
+<td>APP-任务列表</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+<tr valign="top" class="">
+<td>APP-销售页面数据(selectList)</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+<tr valign="top" class="">
+<td>APP-整车销售列表(getUserInitialListByIds)</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+<tr valign="top" class="">
+<td>APP-整车销售列表(selectPageByParams)</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+<tr valign="top" class="">
+<td>APP-整车详情</td><td align="center">1</td><td align="center">0</td><td align="right">100.00%</td>
+</tr>
+</table>
+<hr align="center" width="95%" size="1">
+</body>
+</html>

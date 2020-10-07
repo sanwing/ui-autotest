@@ -1,0 +1,1025 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca7ba323-7b5c-4c72-aaa9-3cff55d4e0d3" name="Default Changelist" comment="注释本地调试">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/zhengt_ui_autotest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/zhengt_ui_autotest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/driver_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/driver_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/driver_init.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/driver_init.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/send_msg.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/send_msg.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/prd.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/prd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/default.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-06-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-06-24" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-06-25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-06-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-06-28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/default.log.2019-07-01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log" beforeDir="false" afterPath="$PROJECT_DIR$/log/log_error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-20" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-21" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-25" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-26" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-27" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/log_error.log.2019-06-28" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/oa/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oa/common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/oa/group_news.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oa/group_news.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/oa/notice.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oa/notice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/oa/workflow_center.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/oa/workflow_center.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/test/demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/test/demo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/test/demo3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_114528.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_141416.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_142038.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_153002.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_163849.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_163955.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190701_182256.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190702_091739.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190702_101038.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/oa/20190702_101318.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/20190701_104946.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/test/20190701_163218.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_oa_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_oa_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_test_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/run_test_all_case.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run_zhengtyun_session.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101127_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101159_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101200_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101231_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101307_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101337_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701101415_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701142047_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701153051_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701153053_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701182335_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190701182337_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190702091848_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190702101131_element.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190702101133_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/20190702101328_page.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_oa/test_oa_common.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_oa/test_oa_common.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_test/test_demo1.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_test/test_demo1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcases/test_test/test_demo2.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcases/test_test/test_demo2.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_test_all_case.coverage" NAME="run_test_all_case Coverage Results" MODIFIED="1563681262534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_oa_all_case.coverage" NAME="run_oa_all_case Coverage Results" MODIFIED="1563700211509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="notice.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/oa/notice.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="49" selection-end-line="97" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workflow_center.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pages/oa/workflow_center.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom_error.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/custom_error.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="decorators.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/decorators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="driver_api.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/common/driver_api.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="112" column="45" lean-forward="true" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
+              <folding>
+                <element signature="e#16#35#0" expanded="true" />
+                <element signature="e#3115#3886#0" />
+                <element signature="e#4730#5418#0" />
+                <element signature="e#5495#5836#0" />
+                <element signature="e#5915#6339#0" />
+                <element signature="e#6866#6951#0" />
+                <element signature="e#7035#7444#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_oa_all_case.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/run_oa_all_case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="driver_init.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/driver_init.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="prd.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/prd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="send_msg.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/send_msg.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1254">
+              <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+              <folding>
+                <element signature="e#15#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>value</find>
+      <find>self</find>
+      <find>img_path</find>
+      <find>执行js成功</find>
+      <find>类型错误</find>
+      <find>timeout</find>
+      <find>_wait_find_element</find>
+      <find>NoSuchWindowException</find>
+      <find>sys.stderr, '\nTime Elapsed: %s' % (self.stopTime-self.startTime)</find>
+      <find>Start Time</find>
+      <find>h1</find>
+      <find>add_workflow_link</find>
+      <find>h3bpmportal</find>
+      <find>unittest</find>
+      <find>app_platform</find>
+      <find>ztatm</find>
+      <find>select_cpno_window_enter_btn</find>
+      <find>hostname</find>
+      <find>username</find>
+      <find>password</find>
+      <find>getpass</find>
+      <find>report_dir_path</find>
+      <find>glob</find>
+      <find>正通</find>
+      <find>set_window_size_of_linux</find>
+      <find>get_count_of_my_initiate</find>
+      <find>speed_test_workflow_link</find>
+      <find>logger</find>
+      <find>log</find>
+      <find>log.info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>value</replace>
+      <replace>DriverApi</replace>
+      <replace>logger()</replace>
+      <replace>logger().info</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pages/home.py" />
+        <option value="$PROJECT_DIR$/pages/baidu_home.py" />
+        <option value="$PROJECT_DIR$/static/email_template/email_template_content" />
+        <option value="$PROJECT_DIR$/testcases/oa_common.py" />
+        <option value="$PROJECT_DIR$/run_allcase.py" />
+        <option value="$USER_HOME$/.virtualenvs/zhengt_ui_autotest-pMMChUjj/Lib/HTMLTestRunner.py" />
+        <option value="$PROJECT_DIR$/pages/oa/home.py" />
+        <option value="$PROJECT_DIR$/pages/test/demo3.py" />
+        <option value="$PROJECT_DIR$/run_all_case.py" />
+        <option value="$PROJECT_DIR$/pages/test/demo1.py" />
+        <option value="$PROJECT_DIR$/run_testcases/run_test_testcases/run_all_case.py" />
+        <option value="$PROJECT_DIR$/run_testcases/run_oa_testcases/run_all_case.py" />
+        <option value="$PROJECT_DIR$/run_testcases/run_oa_testcases/run_oa_session.py" />
+        <option value="$PROJECT_DIR$/run_testcases/run_oa_testcases/run_oa_all_case.py" />
+        <option value="$PROJECT_DIR$/log/globallog.py" />
+        <option value="$PROJECT_DIR$/log/logger_config.ini" />
+        <option value="$PROJECT_DIR$/Pipfile" />
+        <option value="$PROJECT_DIR$/run_oa_session.py" />
+        <option value="$PROJECT_DIR$/testcases/temp.py" />
+        <option value="$PROJECT_DIR$/testcases/upload_package_2_fir.py" />
+        <option value="$USER_HOME$/Downloads/upload_package_2_fir.py" />
+        <option value="$PROJECT_DIR$/testcases/test_zhengtyun/test_oa_common.py" />
+        <option value="$PROJECT_DIR$/config/zhengt_yun.py" />
+        <option value="$PROJECT_DIR$/testcases/test_zhengtyun/common.py" />
+        <option value="$PROJECT_DIR$/run_zhengt_yun_session.py" />
+        <option value="$PROJECT_DIR$/pages/zhengtyun/common.py" />
+        <option value="$PROJECT_DIR$/testcases/test_zhengtyun/test_as_common.py" />
+        <option value="$PROJECT_DIR$/pages/zhengtyun/as_work_order.py" />
+        <option value="$USER_HOME$/Downloads/demo.py" />
+        <option value="$USER_HOME$/Downloads/upload_package_2_fir_bak.py" />
+        <option value="$PROJECT_DIR$/pages/oa/custom_exception.py" />
+        <option value="$PROJECT_DIR$/testcases/test_oa/test_oa_session.py" />
+        <option value="$PROJECT_DIR$/testcases/test_test/demo.py" />
+        <option value="$USER_HOME$/Downloads/send_report.py" />
+        <option value="$PROJECT_DIR$/common/decorators.py" />
+        <option value="$PROJECT_DIR$/pages/test/demo2.py" />
+        <option value="$PROJECT_DIR$/common/driver_init.py" />
+        <option value="$PROJECT_DIR$/config/prd.py" />
+        <option value="$PROJECT_DIR$/testcases/test_test/test_demo2.py" />
+        <option value="$PROJECT_DIR$/testcases/test_test/test_demo1.py" />
+        <option value="$PROJECT_DIR$/pages/oa/common.py" />
+        <option value="$PROJECT_DIR$/pages/oa/group_news.py" />
+        <option value="$PROJECT_DIR$/pages/oa/notice.py" />
+        <option value="$PROJECT_DIR$/pages/oa/workflow_center.py" />
+        <option value="$PROJECT_DIR$/log/default.log" />
+        <option value="$PROJECT_DIR$/run_zhengtyun_session.py" />
+        <option value="$PROJECT_DIR$/run_test_all_case.py" />
+        <option value="$PROJECT_DIR$/run_oa_all_case.py" />
+        <option value="$PROJECT_DIR$/common/driver_api.py" />
+        <option value="$PROJECT_DIR$/common/send_msg.py" />
+        <option value="$PROJECT_DIR$/testcases/test_oa/test_oa_common.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="485" />
+    <option name="y" value="160" />
+    <option name="width" value="1195" />
+    <option name="height" value="1010" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zhengt_ui_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengt_ui_autotest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengt_ui_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengt_ui_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengt_ui_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengt_ui_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zhengt_ui_autotest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zhengt_ui_autotest" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\projectWorkSpace\zhengt_ui_autotest\common" />
+      <recent name="C:\python_project\zhengt_ui_autotest\pages\oa" />
+      <recent name="C:\python_project\zhengt_ui_autotest" />
+      <recent name="C:\python_project\zhengt_ui_autotest\pages\zhengtyun" />
+      <recent name="C:\python_project\zhengt_ui_autotest\testcases\test_zhengtyun" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.run_oa_all_case">
+    <configuration name="run_oa_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhengt_ui_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_oa_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_oa_session (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhengt_ui_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_oa_session.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="run_test_all_case" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhengt_ui_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_test_all_case.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="send_msg" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="zhengt_ui_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/common" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/common/send_msg.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for testcases.test_test.test_demo1.Demo1" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="zhengt_ui_autotest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcases/test_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcases.test_test.test_demo1.Demo1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for testcases.test_test.test_demo1.Demo1" />
+      <item itemvalue="Python.run_oa_all_case" />
+      <item itemvalue="Python.run_oa_session (1)" />
+      <item itemvalue="Python.run_test_all_case" />
+      <item itemvalue="Python.send_msg" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_oa_all_case" />
+        <item itemvalue="Python.run_test_all_case" />
+        <item itemvalue="Python.send_msg" />
+        <item itemvalue="Python tests.Unittests for testcases.test_test.test_demo1.Demo1" />
+        <item itemvalue="Python.run_oa_session (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca7ba323-7b5c-4c72-aaa9-3cff55d4e0d3" name="Default Changelist" comment="" />
+      <created>1560994480120</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560994480120</updated>
+      <workItem from="1560994484687" duration="38698000" />
+      <workItem from="1561098392223" duration="36000" />
+      <workItem from="1561360456663" duration="6289000" />
+      <workItem from="1561429340105" duration="19368000" />
+      <workItem from="1561548993701" duration="62475000" />
+      <workItem from="1561976544743" duration="133406000" />
+      <workItem from="1563365954517" duration="948000" />
+      <workItem from="1563591610748" duration="6375000" />
+    </task>
+    <task id="LOCAL-00001" summary="通过接口模拟登陆，获取session">
+      <created>1562659837922</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562659837922</updated>
+    </task>
+    <task id="LOCAL-00002" summary="注释本地调试">
+      <created>1562660044462</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1562660044462</updated>
+    </task>
+    <task id="LOCAL-00003" summary="启动浏览器添加设置缓存目录">
+      <created>1562664391991</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562664391991</updated>
+    </task>
+    <task id="LOCAL-00004" summary="注释本地调试">
+      <created>1562672809404</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1562672809404</updated>
+    </task>
+    <task id="LOCAL-00005" summary="修改邮件发送规则">
+      <created>1562674110567</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562674110567</updated>
+    </task>
+    <task id="LOCAL-00006" summary="解决类初始化函数出现异常程序不发送邮件的问题">
+      <created>1563595666739</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1563595666740</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 35m 26s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 37m 29s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 39m 28s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 47m 22s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 49m 57s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 51m 54s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 10h 53m 49s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 11h 04m 48s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow - 2019.06.26 at 19h 41m 22s.xml">
+      <configuration name="Unittests for oa_common.OACommon.test_oa_test_speed_workflow" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_demo1_Demo1_test_add - 2019.07.08 at 14h 33m 54s.xml">
+      <configuration name="Unittests for test_demo1.Demo1.test_add" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="267595000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32990867" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3281471" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3606789" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18230277" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.46854663" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32990867" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3618635" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286334" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="通过接口模拟登陆，获取session" />
+    <MESSAGE value="启动浏览器添加设置缓存目录" />
+    <MESSAGE value="注释本地调试" />
+    <MESSAGE value="修改邮件发送规则" />
+    <MESSAGE value="解决类初始化函数出现异常程序不发送邮件的问题" />
+    <option name="LAST_COMMIT_MESSAGE" value="解决类初始化函数出现异常程序不发送邮件的问题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_zhengtyun_session.coverage" NAME="run_zhengtyun_session Coverage Results" MODIFIED="1562154469795" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_OACommon_test_oa_test_speed_workflow.coverage" NAME="Unittests for oa_common.OACommon.test_oa_test_speed_workflow Coverage Results" MODIFIED="1561549245372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$demo2.coverage" NAME="demo2 Coverage Results" MODIFIED="1561948231264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/test" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_all_case__2_.coverage" NAME="run_all_case (2) Coverage Results" MODIFIED="1561949381650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_testcases/run_oa_testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$globallog.coverage" NAME="globallog Coverage Results" MODIFIED="1561952366641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/log" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_BaiduSearch.coverage" NAME="Unittests for oa_common.BaiduSearch Coverage Results" MODIFIED="1561012317530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$demo1.coverage" NAME="demo1 Coverage Results" MODIFIED="1561948170400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/test" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_BaiduSearch_test_oa_test_speed_workflow.coverage" NAME="Unittests for oa_common.BaiduSearch.test_oa_test_speed_workflow Coverage Results" MODIFIED="1561445737686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_OACommon.coverage" NAME="Unittests for oa_common.OACommon Coverage Results" MODIFIED="1561449792465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_in_oa_common_py.coverage" NAME="Unittests in oa_common.py Coverage Results" MODIFIED="1561445951358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_test_all_case.coverage" NAME="run_test_all_case Coverage Results" MODIFIED="1563609718512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_all_case__1_.coverage" NAME="run_all_case (1) Coverage Results" MODIFIED="1561949386146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_testcases/run_test_testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_all_case.coverage" NAME="run_all_case Coverage Results" MODIFIED="1561949398226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_oa_session__1_.coverage" NAME="run_oa_session (1) Coverage Results" MODIFIED="1562555602508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$temp.coverage" NAME="temp Coverage Results" MODIFIED="1562060409414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_oa_session.coverage" NAME="run_oa_session Coverage Results" MODIFIED="1561966202037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_testcases/run_oa_testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_BaiduSearch_test_oa_add_workflow.coverage" NAME="Unittests for oa_common.BaiduSearch.test_oa_add_workflow Coverage Results" MODIFIED="1561433987837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_oa_all_case__1_.coverage" NAME="run_oa_all_case (1) Coverage Results" MODIFIED="1561970395072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$send_msg.coverage" NAME="send_msg Coverage Results" MODIFIED="1562673981848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$run_oa_all_case.coverage" NAME="run_oa_all_case Coverage Results" MODIFIED="1563610456803" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_BaiduSearch_test_oa_homepage.coverage" NAME="Unittests for oa_common.BaiduSearch.test_oa_homepage Coverage Results" MODIFIED="1561364209600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$demo3.coverage" NAME="demo3 Coverage Results" MODIFIED="1561946255198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages/test" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$test_as_common.coverage" NAME="test_as_common Coverage Results" MODIFIED="1562147536213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/test_zhengtyun" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_test_demo1_Demo1_test_add.coverage" NAME="Unittests for test_demo1.Demo1.test_add Coverage Results" MODIFIED="1562567634116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases/test_test" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$Unittests_for_oa_common_BaiduSearch_test_baidu_search.coverage" NAME="Unittests for oa_common.BaiduSearch.test_baidu_search Coverage Results" MODIFIED="1561012543114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcases" />
+    <SUITE FILE_PATH="coverage/zhengt_ui_autotest$upload_package_2_fir.coverage" NAME="upload_package_2_fir Coverage Results" MODIFIED="1562139593010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/prd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+          <folding>
+            <element signature="e#15#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="111" column="43" lean-forward="true" selection-start-line="111" selection-start-column="43" selection-end-line="111" selection-end-column="43" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#3115#3886#0" />
+            <element signature="e#4730#5418#0" />
+            <element signature="e#5495#5836#0" />
+            <element signature="e#5915#6339#0" />
+            <element signature="e#6866#6951#0" />
+            <element signature="e#7035#7444#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/custom_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/group_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="11" lean-forward="true" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="42" lean-forward="true" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/notice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="49" lean-forward="true" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8094">
+          <caret line="435" column="45" lean-forward="true" selection-end-line="464" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#3115#3886#0" />
+            <element signature="e#4730#5418#0" />
+            <element signature="e#5495#5836#0" />
+            <element signature="e#5915#6339#0" />
+            <element signature="e#6866#6951#0" />
+            <element signature="e#7035#7444#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" lean-forward="true" selection-end-line="66" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="72" column="63" lean-forward="true" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+          <folding>
+            <element signature="e#15#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/workflow_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="69" lean-forward="true" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/oa/20190709_160040.html" />
+    <entry file="file://$PROJECT_DIR$/report/oa/20190709_160019.html" />
+    <entry file="file://$PROJECT_DIR$/report/test/20190701_104946.html" />
+    <entry file="file://$PROJECT_DIR$/static/img/20190709192443_page.png" />
+    <entry file="file://$PROJECT_DIR$/static/img/20190701101127_element.png" />
+    <entry file="file://$USER_HOME$/Downloads/send_report.py" />
+    <entry file="file://$PROJECT_DIR$/log/log_error.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12906" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-pMMChUjj/Lib/HTMLTestRunner.py" />
+    <entry file="file://$PROJECT_DIR$/report/test.html" />
+    <entry file="file://$PROJECT_DIR$/pages/zhengtyun/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/test/demo3.py" />
+    <entry file="file://$PROJECT_DIR$/pages/test/demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/HTMLReport/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="e#41#75#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/test.log" />
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/HTMLReport/Result.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="27" column="19" lean-forward="true" selection-start-line="27" selection-start-column="19" selection-end-line="27" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/HTMLReport/log/HandlerFactory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/HTMLReport/log/Logger.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="27" column="41" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/HTMLReport/HTMLReport.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/default.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="180" column="10" lean-forward="true" selection-start-line="180" selection-start-column="10" selection-end-line="180" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_zhengtyun_session.py" />
+    <entry file="file://$USER_HOME$/.virtualenvs/zhengt_ui_autotest-jrwacfeK/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="1065" column="8" selection-start-line="1065" selection-start-column="8" selection-end-line="1065" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_api.py.bak">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_test_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="31" lean-forward="true" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_oa/test_oa_common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="78" column="31" lean-forward="true" selection-end-line="137" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_test/test_demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="35" column="28" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcases/test_test/test_demo2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="11" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="9" column="29" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/custom_exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/group_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="9" column="11" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/home.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="42" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/notice.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="49" selection-end-line="97" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/send_msg.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1254">
+          <caret line="72" column="63" selection-start-line="72" selection-start-column="63" selection-end-line="72" selection-end-column="63" />
+          <folding>
+            <element signature="e#15#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pages/oa/workflow_center.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="69" selection-start-line="15" selection-start-column="69" selection-end-line="15" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/custom_error.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/decorators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/run_oa_all_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_init.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="38" lean-forward="true" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/prd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="17" lean-forward="true" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/appWork/autotestPackage/AirtestIDE-win-1.2.5/AirtestIDE/scripts/demo1.air/demo1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/driver_api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="112" column="45" lean-forward="true" selection-start-line="112" selection-start-column="45" selection-end-line="112" selection-end-column="45" />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+            <element signature="e#3115#3886#0" />
+            <element signature="e#4730#5418#0" />
+            <element signature="e#5495#5836#0" />
+            <element signature="e#5915#6339#0" />
+            <element signature="e#6866#6951#0" />
+            <element signature="e#7035#7444#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
